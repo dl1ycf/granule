@@ -75,6 +75,8 @@ This will instance the main frontend `gr` and the interactive mode
 More details about how to install can be found on the [wiki
 page](https://github.com/granule-project/granule/wiki/Installing-Granule).
 
+There is a Visual Studio Code extension which is available [here](https://github.com/granule-project/granule-vscode-extension).
+
 
 ## Compiler
 
